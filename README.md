@@ -37,5 +37,6 @@ python intterpolpars.py -x
 ```
 # Result
 
+![Снимок](https://user-images.githubusercontent.com/54912523/81945498-dbcf7d80-9606-11ea-861f-3faae3704906.JPG)
 
  
