@@ -36,10 +36,8 @@ To start a project, open a command prompt in the folder where the project is loc
 python intterpolpars.py -x
 ```
 # Result
+![image](https://user-images.githubusercontent.com/54912523/83887106-a541da00-a750-11ea-9ed9-fb76c531129a.png)
 
-![Снимок1](https://user-images.githubusercontent.com/54912523/81947288-0c181b80-9609-11ea-897b-fb345176e591.JPG)
-
-
-![Снимок](https://user-images.githubusercontent.com/54912523/81945498-dbcf7d80-9606-11ea-861f-3faae3704906.JPG)
+![image](https://user-images.githubusercontent.com/54912523/83887139-b12d9c00-a750-11ea-8bb7-6d22cabb0f76.png)
 
  
