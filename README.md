@@ -1,7 +1,7 @@
 # Interpolation
 
 # Task description
-Task Lost data but without limitation on the type of function. Interpolation.
+Finding intermediate values of a quantity by having a discrete set of known values.
 
 # Download project
  In order for the project to be cloned to the current folder, you need to open the command line and run the commandу (git clone 
